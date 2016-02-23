@@ -6,9 +6,6 @@
 ##### What is the Euler Project?
 The Euler Project is a set of problems that demand both mathematical and programmatic knowledge in order to solve. Some problems are relatively easy and can be completed during a lunch break, while others are far more challenging and may take days to work out a solution. First and foremost, EP is intended as a learning experience (hence the earlier disclaimer). You can seek out more info here: https://projecteuler.net/
 ***
-##### About me
-I am a college student currently pursuing an associates and certification in database administration, though I enjoy programming personal projects.
-***
 ### Problems Solved
 Problems I have completed successfully. Problem number, date solved, and problem description listed.
 - [1] [Feb 21, 2016] Find the sum of all the multiples of 3 or 5 below 1000.
