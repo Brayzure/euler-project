@@ -13,7 +13,6 @@ Problems I have completed successfully. Problem number, date solved, and problem
 - [3] [Feb 21, 2016] What is the largest prime factor of the number 600851475143 ?
 - [5] [Feb 22, 2016] What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20? _Note: This was solved with mathematical reasoning, thus no program is included._
 
-Test
 ***
 ### Problems Attempted
 Problems that I have attempted, but not completed yet. Problem number, problem description, and primary difficulty in solving listed.
