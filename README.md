@@ -1,9 +1,9 @@
 # Euler Problems
 ***
-##### *_Please Note!_*
+### *_Please Note!_*
 ##### Even though no actual, numerical solutions will be displayed, neither here nor in the repository itself, it is _strongly_ advised not to view the programs if you ever wish to attempt them yourselves. Part of the fun in (and the value of) the Euler Project is coming up with the solution yourself. This is merely intended as a personal showcase, or for ideas if you happen to get stuck. If you are looking for the raw solutions (which is an even worse idea), look elsewhere.
 ***
-##### What is the Euler Project?
+### What is the Euler Project?
 The Euler Project is a set of problems that demand both mathematical and programmatic knowledge in order to solve. Some problems are relatively easy and can be completed during a lunch break, while others are far more challenging and may take days to work out a solution. First and foremost, EP is intended as a learning experience (hence the earlier disclaimer). You can seek out more info here: https://projecteuler.net/
 ***
 ### Problems Solved
