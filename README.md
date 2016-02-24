@@ -15,6 +15,7 @@ Problems I have completed successfully. Problem number, date solved, and problem
 - [6] [Feb 23, 2016] Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 - [7] [Feb 23, 2016] Find the 10,001st prime number.
 - [8] [Feb 23, 2016] Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
+- [9] [Feb 24, 2016] Find the only pythagorean triple such that its sum equals 1000. Determine the product of the three lengths.
 
 ***
 ### Problems Attempted
