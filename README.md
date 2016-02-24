@@ -17,6 +17,7 @@ Problems I have completed successfully. Problem number, date solved, and problem
 - [8] [Feb 23, 2016] Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
 - [9] [Feb 24, 2016] Find the only pythagorean triple such that its sum equals 1000. Determine the product of the three lengths.
 - [10] [Feb 24, 2016] Find the sum of all of the primes below two million.
+- [11] [Feb 24, 2016] What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid (not shown)?
 
 ***
 ### Problems Attempted
